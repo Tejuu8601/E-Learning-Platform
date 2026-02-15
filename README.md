@@ -16,7 +16,7 @@ A responsive multi-page E-Learning Platform UI built using HTML, CSS and JavaScr
 - JavaScript
 
 ## Live Demo
-(Add your GitHub Pages link here)
+https://tejuu8601.github.io/E-Learning-Platform/
 
 ## Author
 Tejaswi Muddana
